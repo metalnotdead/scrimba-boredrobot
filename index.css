@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: linear-gradient(to top, #2c3e50, #bdc3c7);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+button{
+height: 100px;
+width: 100px;
+border-radius: 50%;
+background-color: red;
+border: 1px solid darkred;
+cursor: pointer;
+}
+
+.fun{
+    background: linear-gradient(to top, #1262b3, #d06d17);
+}
